@@ -5,7 +5,8 @@ layout:
     - Levels Info
     - Rooms
     - Grids
+    - BrowserInfo
     - Phasing
     - ElementCodering
     - Workset
-
+    - Parameter
